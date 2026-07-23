@@ -1,12 +1,3 @@
-# Hi there! 👋 I'm Isha Kadam
-
-### Building Data Pipelines • Analytics • AI Solutions
-
-🎓 **M.S. in Applied Data Science** – Syracuse University, New York (2026)  
-🎓 **B.E. in Information Technology** – University of Mumbai
-
----
-
 # 💫 About Me
 
 I'm a data professional passionate about transforming raw data into scalable solutions and actionable business insights.
