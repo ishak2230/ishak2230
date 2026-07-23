@@ -72,22 +72,6 @@ I believe that impactful data solutions are not only technically robust but also
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏠 Airbnb End-to-End Data Engineering Pipeline
-- Built a modern cloud data pipeline using **Snowflake, dbt, AWS, and Power BI** for analytics and reporting.
-
-### 📦 Retail Object Detection & Product Recommendation
-- Developed a computer vision system using **YOLO and Deep Learning** for object detection and intelligent recommendations.
-
-### 🍔 Food Delivery Analytics Dashboard
-- Designed interactive **Power BI dashboards** to uncover operational KPIs and business insights.
-
-### 🧠 Deep Learning Image Classification
-- Built convolutional neural network models for image classification using TensorFlow and Keras.
-
----
-
 # 🎯 Roles I'm Interested In
 
 - Data Engineer
